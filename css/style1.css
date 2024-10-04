@@ -1,0 +1,33 @@
+.name {
+    text-align: center;
+    margin: 6px;
+}
+.emaa {
+    text-align: center;
+    margin: 6px;
+}
+.tele {
+    text-align: center;
+    margin: 6px;
+}
+
+label{
+    background-color: #8dc1ab;
+    padding: 3px;
+    border-radius: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.mens {
+    text-align: center;
+    margin: 6px;
+}
+.botao {
+    text-align: center;   
+}
+button {
+    border-radius: 3px;
+    padding: 5px;
+    border: #649681;
+    background-color: #649681;
+    font-family: 'Courier New', Courier, monospace;
+}
